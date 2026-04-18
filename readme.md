@@ -31,10 +31,6 @@ I’m continuously learning **backend architecture, networking, and system desig
 
 ## 🎓 Education
 
-| Institution | Degree | Duration |
-|---|---|---|
-| Dire Dawa University | Bachelors | 2023-11 - 2027-05 |
-
 ### Bachelors in Information Technology
 *Dire Dawa University*
 
