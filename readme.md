@@ -6,8 +6,6 @@
 
 </div>
 
-## 🚀 About Me
-
 ## 👨‍💻 About Me
 
 Hi, I’m **Eyob Abebe**, a backend developer from **Dire Dawa, Ethiopia**.
