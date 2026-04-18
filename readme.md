@@ -24,7 +24,7 @@ I’m continuously learning **backend architecture, networking, and system desig
 
 <div align="left">
 
-- 🌱 I'm currently learning **🚀 Currently learning: **Advanced Go, networking (CCNA), system design**
+- 🌱 I'm currently learning **🚀 **Advanced Go, networking (CCNA), system design**
 **
 
 </div>
