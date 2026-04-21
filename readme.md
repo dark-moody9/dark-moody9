@@ -51,7 +51,6 @@ I’m continuously learning **backend architecture, networking, and system desig
 
 <div align="center">
 
-*### ⚡ Fun Fact
 
 I’m learning backend and networking, so when something breaks, I’m not sure if it’s my code or the network 😅
 *
