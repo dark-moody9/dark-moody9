@@ -106,15 +106,13 @@ I’m learning backend and networking, so when something breaks, I’m not sure 
 
 </div>
 
-## 🐍 Contribution Snake
+## 📈 Contribution Activity
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/dark-moody9/dark-moody9/output/github-contribution-grid-snake.svg" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dark-moody9&theme=tokyo-night&hide_border=true" />
 
 </div>
-
-<div align="center">
 
 ### 🎯 "Code is like humor. When you have to explain it, it's bad." – Cory House
 
