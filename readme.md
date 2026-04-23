@@ -1,3 +1,4 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0066FF&height=100&section=header" />
 <div align="center">
 
 # Hi 👋, I'm Eyob Abebe
