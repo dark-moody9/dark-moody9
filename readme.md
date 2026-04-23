@@ -99,7 +99,7 @@ I’m learning backend and networking, so when something breaks, I’m not sure 
 ---
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=go,js,cpp,postgres,mysql,flutter,linux,git,figma&theme=dark" />
+<img src="https://raw.githubusercontent.com/dark-moody9/dark-moody9/output/github-contribution-grid-snake.svg" />
 
 </div>
 
