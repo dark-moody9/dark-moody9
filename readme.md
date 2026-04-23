@@ -97,6 +97,15 @@ I’m learning backend and networking, so when something breaks, I’m not sure 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;&nbsp;&nbsp;![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
+
+## 📊 GitHub Summary
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dark-moody9&theme=tokyonight" />
+
+</div>
+
 ## 🐍 Contribution Snake
 
 <div align="center">
