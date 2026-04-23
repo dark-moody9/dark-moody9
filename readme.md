@@ -99,17 +99,11 @@ I’m learning backend and networking, so when something breaks, I’m not sure 
 ---
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/dark-moody9/dark-moody9/output/github-contribution-grid-snake.svg" />
+<img src="https://github-readme-stats.vercel.app/api?username=dark-moody9&show_icons=true&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=dark-moody9&theme=tokyonight&hide_border=true" />
 
 </div>
 
-## 📊 GitHub Summary
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dark-moody9&theme=tokyonight" />
-
-</div>
 
 ## 📈 Contribution Activity
 
