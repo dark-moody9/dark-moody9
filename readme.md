@@ -106,6 +106,7 @@ I’m learning backend and networking, so when something breaks, I’m not sure 
 
 </div>
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dark-moody9&layout=compact)
 
 ## 📈 Contribution Activity
 
