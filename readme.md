@@ -114,7 +114,8 @@ I’m learning backend and networking, so when something breaks, I’m not sure 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=dark-moody9&show_icons=true&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dark-moody9&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dark-moody9&theme=tokyonight" />
 
 </div>
 
