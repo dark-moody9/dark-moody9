@@ -101,9 +101,11 @@ I’m learning backend and networking, so when something breaks, I’m not sure 
 ---
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=dark-moody9&show_icons=true&theme=tokyonight&hide_border=true" />
-<img src="https://streak-stats.demolab.com?user=dark-moody9&theme=tokyonight&hide_border=true" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dark-moody9&layout=compact" alt="Top Languages" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dark-moody9&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="180em" src="https://github-readme-streak-stats.demolab.com?user=dark-moody9&theme=tokyonight&hide_border=true" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dark-moody9&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
