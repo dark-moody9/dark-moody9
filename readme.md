@@ -105,9 +105,9 @@ I’m learning backend and networking, so when something breaks, I’m not sure 
 <img src="https://streak-stats.demolab.com?user=dark-moody9&theme=tokyonight&hide_border=true" />
 
 </div>
-
+<div align="center">
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dark-moody9&layout=compact)
-
+</div>
 ## 📈 Contribution Activity
 
 <div align="center">
