@@ -114,7 +114,7 @@ I’m learning backend and networking, so when something breaks, I’m not sure 
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dark-moody9&theme=tokyo-night&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=dark-moody9&show_icons=true&theme=tokyonight" />
 
 </div>
 
